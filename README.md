@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center"> I'm LautiRad</h1>
-<h3 align="center">A Blockchain Developer</h3>
+<h3 align="center">⚡Full Stack & Blockchain Developer⚡</h3>
 
 - 👨‍💻 I’m currently working on [PayDece](https://www.paydece.io/es/)
 
