@@ -20,7 +20,7 @@
 <a href="https://twitter.com/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lautirad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautirad" height="30" width="40" /></a>
 <a href="https://instagram.com/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lautirad" height="30" width="40" /></a>
-<a href="https://discord.gg/4153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4153" height="30" width="40" /></a>
+<a href="https://discord.gg/Fc2wDXjP69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4153" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
