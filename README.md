@@ -9,6 +9,8 @@
 
 - 👨‍💻 I’m currently CEO on [AnLib.xyz](https://www.anlib.xyz/)
 
+- 📄 In my spare time, which is little xD, i like to learn about business.
+
 - 👨‍💻 All of my projects are available at [lautirad.vercel.app](lautirad.vercel.app)
 
 - 📫 How to reach me **lautaroradboone@gmail.com**
