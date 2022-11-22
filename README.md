@@ -3,11 +3,11 @@
 <h1 align="center"> I'm LautiRad</h1>
 <h3 align="center">⚡Full Stack & Blockchain Developer⚡</h3>
 
-- 👨‍💻 I’m currently working on [PayDece](https://www.paydece.io/es/)
+- 👨‍💻 I’m currently CEO on [AnLib.xyz](https://www.anlib.xyz/)
 
 - 👨‍💻 I’m currently CTO on [CriptoCars 🚗](https://www.criptocars.io/)
 
-- 👨‍💻 I’m currently CEO on [AnLib.xyz](https://www.anlib.xyz/)
+- 👨‍💻 I’m currently working on [PayDece](https://www.paydece.io/es/)
 
 - 📄 In my spare time, which is little xD, i like to learn about business.
 
