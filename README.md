@@ -2,7 +2,7 @@
 
 <h1 align="center"> I'm LautiRad</h1>
 <h3 align="center">⚡Full Stack & Blockchain Developer⚡</h3>
-<h3 align="center">⚡Full Stack & Blockchain Developer⚡</h3>
+<h3 align="center">I like build software 🚧 🚀</h3>
 
 - 👨‍💻 I’m currently CEO & Full-Stack Dev on [CreX](https://www.crex.vercel.app/)
 
@@ -10,9 +10,9 @@
 
 - 👨‍💻 I’m currently CTO & Front-End Dev on [CriptoCars 🚗](https://www.criptocars.io/)
 
-- 👨‍💻 [Prote](prote.vercel.app) & All rest of my projects are available at [lautirad](lautirad.vercel.app)
+- 👨‍💻 [Prote](https://www.prote.vercel.app) & All rest of my projects are available at [lautirad](https://www.lautirad.vercel.app)
 
-- 📄 Know about my experiences [lautirad.exp](lautirad.vercel.app)
+- 📄 Know about my experiences [lautirad.exp](lhttps://www.autirad.vercel.app)
 
 - 📫 For jobs offers **lautaroradboone@gmail.com**
 
