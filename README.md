@@ -5,11 +5,11 @@
 
 <h3 align="left">I like build software 🚧<h3>
 <h5 align="left">Projects 🚀 <h5>
--[AnLib.xyz](https://www.anlib.xyz/)
--[CriptoCars 🚗](https://www.criptocars.io/)
--[lautirad](lautirad.vercel.app)
--[CreX](crex.vercel.app)
--[ProteLP](prote.vercel.app)
+- [AnLib.xyz](https://www.anlib.xyz/)
+- [CriptoCars 🚗](https://www.criptocars.io/)
+- [lautirad](lautirad.vercel.app)
+- [CreX](crex.vercel.app)
+- [ProteLP](prote.vercel.app)
 
 <h5 align="left">CV & Experiences 📄<h5>
 
