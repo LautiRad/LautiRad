@@ -5,11 +5,11 @@
 
 <h3 align="left">I like build software 🚧<h3>
 <h5 align="left">Projects 🚀 <h5>
-[AnLib.xyz](https://www.anlib.xyz/)
-[CriptoCars 🚗](https://www.criptocars.io/)
-[lautirad](lautirad.vercel.app)
-[CreX](crex.vercel.app)
-[ProteLP](prote.vercel.app)
+-[AnLib.xyz](https://www.anlib.xyz/)
+-[CriptoCars 🚗](https://www.criptocars.io/)
+-[lautirad](lautirad.vercel.app)
+-[CreX](crex.vercel.app)
+-[ProteLP](prote.vercel.app)
 
 <h5 align="left">CV & Experiences 📄<h5>
 
@@ -39,7 +39,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
 </p>
 
-<h5 align="left">For job offers **lautaroradboone@gmail.com** 📫<h5>
+<h5 align="left">For job offers <a href="mailto:lautaroradboone@gmail.com">📫<h5>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
