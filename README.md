@@ -4,17 +4,17 @@
 <h3 align="center">⚡Full Stack & Blockchain Developer⚡</h3>
 <h3 align="center">I like build software 🚧 🚀</h3>
 
-- 👨‍💻 I’m currently CEO & Full-Stack Dev on [CreX](https://www.crex.vercel.app/)
-
-- 👨‍💻 I’m currently CEO & Full-Stack Dev on [AnLib.xyz](https://www.anlib.xyz/)
-
-- 👨‍💻 I’m currently CTO & Front-End Dev on [CriptoCars 🚗](https://www.criptocars.io/)
-
-- 👨‍💻 [Prote](https://www.prote.vercel.app) & All rest of my projects are available at [lautirad](https://www.lautirad.vercel.app)
-
-- 📄 Know about my experiences [lautirad.exp](lhttps://www.autirad.vercel.app)
-
 - 📫 For jobs offers **lautaroradboone@gmail.com**
+
+- 👨‍💻 I’m currently developing software in [CreX](https://www.crex.vercel.app/)
+
+- 👨‍💻 CEO & Full-Stack Dev on [AnLib.xyz](https://www.anlib.xyz/)
+
+- 👨‍💻 CTO & Front-End Dev on [CriptoCars 🚗](https://www.criptocars.io/)
+
+- 👨‍💻 [Prote](https://prote.vercel.app) & All rest of my projects are available at [lautirad](https://lautirad.vercel.app)
+
+- 📄 Know about my experiences [lautirad.exp](https://lautirad.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
