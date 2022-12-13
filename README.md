@@ -6,7 +6,7 @@
 
 - 📫 For jobs offers **lautaroradboone@gmail.com**
 
-- 👨‍💻 I’m currently developing software in [CreX](https://www.crex.vercel.app/)
+- 👨‍💻 I’m currently developing software in [CreX](https://crex.solutions/)
 
 - 👨‍💻 CEO & Full-Stack Dev on [AnLib.xyz](https://www.anlib.xyz/)
 
@@ -14,15 +14,7 @@
 
 - 👨‍💻 [Prote](https://prote.vercel.app) & All rest of my projects are available at [lautirad](https://lautirad.vercel.app)
 
-- 📄 Know about my experiences [lautirad.exp](https://lautirad.vercel.app)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lautirad" height="50" width="60" /></a>
-<a href="https://linkedin.com/in/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautirad" height="50" width="60" /></a>
-<a href="https://instagram.com/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lautirad" height="50" width="60" /></a>
-<a href="https://discord.gg/Fc2wDXjP69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4153" height="50" width="60" /></a>
-</p>
+- 📄 Know about my experiences [lautirad.exp](https://lautiradexp.vercel.app)
 
 <h1 align="center"> Languages </h1>
 <p align="center">
@@ -47,4 +39,12 @@
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/></a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lautirad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lautirad" height="30" width="40" /></a>
+<a href="https://instagram.com/lautirad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lautirad" height="30" width="40" /></a>
+<a href="https://discord.gg/Fc2wDXjP69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4153" height="30" width="40" /></a>
 </p>
