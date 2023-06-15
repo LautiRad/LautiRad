@@ -8,11 +8,14 @@
 
 - 👨‍💻 I’m currently developing software in [CreX](https://crex.solutions/)
 
+Experience: 
 - 👨‍💻 [CriptoCars 🚗](https://www.criptocars.io/)
-
-- 👨‍💻 [Brote](https://www.somosbrote.com.ar/) & All rest of projects are available at [lautirad](https://lautirad.vercel.app)
-
+- 👨‍💻 [Brote 🌱](https://www.somosbrote.com.ar/) 
+- 👨‍💻 [AnLib 💡](https://www.anlib.xyz/) 
+- 👨‍💻 [Gravanago 👨‍⚖️](https://www.estudiolegalgravanago.com.ar/) 
+- 👨‍💻 [Polielectric ⚡](https://www.polielectric.net/) 
 - 📄 Know about my experiences [lautirad.exp](https://lautiradexp.vercel.app)
+- All rest of projects are available at [lautirad](https://lautirad.vercel.app)
 
 <h2 align="center"> Languages: JavaScript | TypeScript | Solidity </h2>
 <p align="center">
